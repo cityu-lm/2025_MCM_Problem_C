@@ -1,15 +1,11 @@
 # 2025美赛C题建模资料
-+ 数学模型（更新中）
-  
-+ 代码
-+   问题一(已更新)
-+   问题二(已更新)
++ 持续更新中
 
-# 获取方式
+  
+# 获取方式  
+需要论文代写的，请联系
 + QQ：1968351975  
-+ QQ群：105235809  
 
 # 资料博客介绍
-在最新的文章中
-[https://blog.csdn.net/weixin_43935696?type=blog](https://blog.csdn.net/weixin_43935696?type=blog)
 
+[CSDN数学建模博客专栏](https://blog.csdn.net/weixin_43935696/category_10559114.html?fromshare=blogcolumn&sharetype=blogcolumn&sharerId=10559114&sharerefer=PC&sharesource=weixin_43935696&sharefrom=from_link)
